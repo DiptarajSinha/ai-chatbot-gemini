@@ -15,6 +15,8 @@ A sleek, responsive AI chatbot built with **Next.js 14**, **TypeScript**, **Tail
 ### 🔗 Live Demo
 
 👉 [Click here to try the chatbot](https://ai-chatbot-gemini-tau.vercel.app/)
+> ⚠️ **Note:** Due to reduced API quota on the free tier, the AI responses may not work once the limit is exceeded for the day. You can still test the interface and features, or clone the project and use your own API key.
+
 
 ## 📸 Demo
 
