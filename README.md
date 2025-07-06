@@ -27,6 +27,6 @@ A sleek, responsive AI chatbot built with **Next.js 14**, **TypeScript**, **Tail
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/yourusername/ai-chatbot-gemini.git
+git clone https://github.com/DiptarajSinha/ai-chatbot-gemini.git
 cd ai-chatbot-gemini
 npm install
