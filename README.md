@@ -12,6 +12,10 @@ A sleek, responsive AI chatbot built with **Next.js 14**, **TypeScript**, **Tail
 - 📱 **Responsive Design** – mobile-first UI
 - 💬 **Markdown Support** in AI replies
 
+### 🔗 Live Demo
+
+👉 [Click here to try the chatbot](https://ai-chatbot-gemini-tau.vercel.app/)
+
 ## 📸 Demo
 
 > ![Chatbot Screenshot](./public/demo.png) <!-- optional if you add one -->
