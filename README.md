@@ -1,4 +1,4 @@
-# Gemini-Powered AI Chatbot 🤖
+# Chat with Ultron 🤖
 
 A sleek, responsive AI chatbot built with **Next.js 14**, **TypeScript**, **Tailwind CSS**, and **Shadcn/UI**, powered by Google's **Gemini 2.0 Flash API**.
 
