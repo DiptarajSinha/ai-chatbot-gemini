@@ -167,7 +167,7 @@ export default function App() {
         <div className="w-full max-w-lg h-[600px] bg-white dark:bg-zinc-800 text-black dark:text-white rounded-xl shadow-lg flex flex-col">
           {/* Header */}
           <header className="flex justify-between items-center p-4 border-b dark:border-zinc-700">
-            <h1 className="text-2xl font-semibold">My AI Chatbot</h1>
+            <h1 className="text-2xl font-semibold">Chat with Ultron</h1>
             <div className="flex items-center gap-2">
               <Button variant="outline" size="sm" onClick={handleNewChat}>
                 🆕 New Chat
